@@ -2,7 +2,7 @@
 
 FactoryGirl.define do
   factory :feed do
-    title "MyString"
+    title "Generated Feed Object"
     description "MyText"
     url "MyString"
     icon_url "MyString"

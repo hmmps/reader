@@ -8,5 +8,6 @@ FactoryGirl.define do
     read_status 1
     published "2013-08-20 06:32:46"
     updated "2013-08-20 06:32:46"
+    feed
   end
 end
